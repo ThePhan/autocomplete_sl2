@@ -1,3 +1,10 @@
 .select_values{
   width: 300px;
 }
+.selectRow {
+    display : block;
+    padding : 20px;
+}
+.select2-container {
+    width: 200px;
+}
